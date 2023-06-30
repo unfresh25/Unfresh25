@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jorgeborja48@gmail.com**
 
-- 📄 Know about my experiences [https://uninorte-my.sharepoint.com/:b:/g/personal/jborjaa_uninorte_edu_co/EY-gY-x6dUZMuMMJ2BdYiDgBmZhi0Nv5Eszc44dmUEQt2A?download=1](https://uninorte-my.sharepoint.com/:b:/g/personal/jborjaa_uninorte_edu_co/EY-gY-x6dUZMuMMJ2BdYiDgBmZhi0Nv5Eszc44dmUEQt2A?download=1)
+- 📄 Know about my experiences [here](https://uninorte-my.sharepoint.com/:b:/g/personal/jborjaa_uninorte_edu_co/EY-gY-x6dUZMuMMJ2BdYiDgBmZhi0Nv5Eszc44dmUEQt2A?download=1)
 
 - ⚡ Fun fact **I'm data analyst who never thought that statistics were fun.**
 
