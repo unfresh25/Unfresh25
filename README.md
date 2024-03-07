@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jorge Borja</h1>
 <h3 align="center">A passionate data analyst from Colombia</h3>
 
-- 🔭 I’m currently working on [Datanalisis](https://datosyanalisis.com/)
+- 🔭 I’m currently working on [Komatsu Colombia S.A.S.](https://www.komatsulatinoamerica.com/colombia/)
 
-- 🌱 I’m currently learning **Advanced artificial intelligence**
+- 🌱 I’m currently learning **R Package Creation**
 
-- 👯 I’m looking to collaborate on **Data analysis**
-
-- 👨‍💻 All of my projects are available at [unfresh25.pythonanywhere.com](unfresh25.pythonanywhere.com)
+- 👯 I’m looking to collaborate on **machine learning**
 
 - 💬 Ask me about **Python, NLP, Machine Learning, Power BI, Tableau, NoSQL & SQL, R, Mathematics & Statistics.**
 
 - 📫 How to reach me **jorgeborja48@gmail.com**
 
-- 📄 Know about my experiences [here](https://uninorte-my.sharepoint.com/:b:/g/personal/jborjaa_uninorte_edu_co/EY-gY-x6dUZMuMMJ2BdYiDgBmZhi0Nv5Eszc44dmUEQt2A?download=1)
+- 📄 Know about my experiences [here](https://1drv.ms/b/c/c1dff949180d8b87/EQl3TVCloy1Kgf0JHbm_u8wBLYe2280GhjCQNoI9XMA94w?download=1)
 
 - ⚡ Fun fact **I'm data analyst who never thought that statistics were fun.**
 
