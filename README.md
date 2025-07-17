@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jorge Borja</h1>
-<h3 align="center">A passionate data analyst from Colombia</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+Statistical+Analyst;Machine+Learning+Engineer;4%2B+Years+of+Experience;Passionate+about+AI+%26+Analytics" alt="Typing SVG" />
