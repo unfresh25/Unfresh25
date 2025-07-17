@@ -78,6 +78,6 @@
 
 <div align="center">
   
-**"Transforming data into insights, one algorithm at a time"** 📊✨
+**"Data's Storyteller, Insight's Architect."** 📊✨
 
 </div>
