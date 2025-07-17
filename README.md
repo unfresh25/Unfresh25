@@ -1,14 +1,15 @@
-# Hi there! 👋 I'm Jorge Borja
+<h1 align="center">Hi 👋, I'm Jorge Borja</h1>
+<h3 align="center">A passionate data analyst from Colombia</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+Statistical+Analyst;Machine+Learning+Engineer;3%2B+Years+of+Experience;Passionate+about+AI+%26+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+Statistical+Analyst;Machine+Learning+Engineer;4%2B+Years+of+Experience;Passionate+about+AI+%26+Analytics" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🎯 About Me
 
-**Data Scientist & Statistical Analyst** with **3+ years** of experience developing predictive models, time series forecasting, and machine learning solutions. I'm passionate about transforming data into actionable insights that drive business impact.
+**Data Scientist & Statistical Analyst** with **4+ years** of experience developing predictive models, time series forecasting, and machine learning solutions. I'm passionate about transforming data into actionable insights that drive business impact.
 
 - 🎓 **M.S. Applied Statistics** | **B.S. Mathematics** - Universidad del Norte, Colombia
 - 💼 **Currently Available** for exciting data science opportunities
@@ -44,25 +45,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔮 **Landslide Risk Prediction System**
-- **Tech Stack:** Python, LightGBM, Azure, API Integration
-- **Impact:** 90% prediction accuracy for gas pipeline monitoring
-- **Scale:** 100+ pipeline monitoring points
-
-### 📦 **Inventory Optimization Platform**
-- **Tech Stack:** Python, Statistical Modeling, Power BI
-- **Impact:** $250M+ in cost savings through demand forecasting
-- **Efficiency:** 80% reduction in manual analysis time
-
-### 📊 **GLSM R Package (CRAN)**
-- **Tech Stack:** R, Statistical Modeling, Package Development
-- **Achievement:** Published on CRAN for multinomial outcome modeling
-- **Features:** Maximum likelihood estimation algorithms
-
----
-
 ## 🏆 Professional Highlights
 
 ```
@@ -70,15 +52,6 @@
 🔄 1TB+ Daily Data Processing   📊 50+ Stakeholder Dashboards
 ⚡ 60% Report Time Reduction    🎯 25% Segmentation Improvement
 ```
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unfresh25&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unfresh25&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
 ---
 
@@ -103,10 +76,6 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=unfresh25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
 
 <div align="center">
   
